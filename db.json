@@ -1,22 +1,5 @@
 {
-  "student": [
-    {
-      "id": "3308077482632237",
-      "studentID": "2018102763",
-      "firstName": "Reymar",
-      "lastName": "Ocero",
-      "middleName": "Maagad",
-      "dateofBirth": "23/10/1992",
-      "placeofBirth": "Ane-i, Claveria, Misamis Oriental",
-      "civilStatus": "Single",
-      "gender": "Male",
-      "age": "27",
-      "nationality": "Filipino",
-      "religion": "Roman Chatolic",
-      "email": "reymar1992@gmail.com",
-      "contactNo": "09322123987",
-      "address": "Door 4, Marielle’s Place, Apitong St, Carmen, Cagayan de Oro City"
-    },
+  "student_information": [
     {
       "id": "3308077482632477",
       "studentID": "2018102761",
@@ -33,23 +16,20 @@
       "email": "199ocero@gmail.com",
       "contactNo": "09322721987",
       "address": "Door 4, Marielle’s Place, Apitong St, Carmen, Cagayan de Oro City"
-    },
-    {
-      "id": "3308077482637677",
-      "studentID": "2018102766",
-      "firstName": "Reymundo",
-      "lastName": "Ocero",
-      "middleName": "Maagad",
-      "dateofBirth": "23/10/1992",
-      "placeofBirth": "Ane-i, Claveria, Misamis Oriental",
-      "civilStatus": "Single",
-      "gender": "Male",
-      "age": "27",
-      "nationality": "Filipino",
-      "religion": "Roman Chatolic",
-      "email": "reymar1992@gmail.com",
-      "contactNo": "09322123987",
-      "address": "Door 4, Marielle’s Place, Apitong St, Carmen, Cagayan de Oro City"
     }
-  ]
+  ],
+  "check_grades":[
+    {
+      "id": "3308077482632477",
+      "studentID": "2018102763",
+      "firstName": "Jay-Are",
+      "lastName": "Ocero",
+      "academic_year": "2019-2020",
+      "semester": "2nd Semester",
+      "grades":[
+        "SS105","Life and Works of Rizal","Units",3.00,"Final Grade",1.50,"Remarks",
+        "SS104","Ethics","Units",3.00,"Final Grade",1.50,"Remarks",
+        "IT221","Information Management","Units",3.00,"Final Grade",1.50,"Remarks"
+      ]
+ ]
 }
