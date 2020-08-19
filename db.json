@@ -27,9 +27,30 @@
       "academic_year": "2019-2020",
       "semester": "2nd Semester",
       "grades":[
-        "SS105","Life and Works of Rizal","Units",3.00,"Final Grade",1.50,"Remarks",
-        "SS104","Ethics","Units",3.00,"Final Grade",1.50,"Remarks",
-        "IT221","Information Management","Units",3.00,"Final Grade",1.50,"Remarks"
+        {
+          "code":"SS105",
+          "name": "Life and Works of Rizal",
+          "unit": 3.00,
+          "grade_type": "Final Grade",
+          "grade_value":1.50,
+          "remarks": "Pass"
+        },
+        {
+          "code":"SS104",
+          "name": "Ethics",
+          "unit": 3.00,
+          "grade_type": "Final Grade",
+          "grade_value":1.50,
+          "remarks": "Pass"
+        },
+        {
+          "code":"IT221",
+          "name": "Information Management",
+          "unit": 3.00,
+          "grade_type": "Final Grade",
+          "grade_value":1.50,
+          "remarks": "Pass"
+        }
       ]
     }
     ]
