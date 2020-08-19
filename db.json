@@ -32,7 +32,7 @@
           "name": "Life and Works of Rizal",
           "unit": 3.00,
           "grade_type": "Final Grade",
-          "grade_value":1.50,
+          "grade_value":2.00,
           "remarks": "Pass"
         },
         {
@@ -48,7 +48,7 @@
           "name": "Information Management",
           "unit": 3.00,
           "grade_type": "Final Grade",
-          "grade_value":1.50,
+          "grade_value":2.50,
           "remarks": "Pass"
         }
       ]
