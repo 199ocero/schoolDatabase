@@ -16,6 +16,23 @@
       "email": "199ocero@gmail.com",
       "contactNo": "09322721987",
       "address": "Door 4, Marielle’s Place, Apitong St, Carmen, Cagayan de Oro City"
+    },
+    {
+      "id": "3308077482632488",
+      "studentID": "2018102756",
+      "firstName": "Jayjay",
+      "lastName": "Gwapo",
+      "middleName": "Maagad",
+      "dateofBirth": "22/03/1999",
+      "placeofBirth": "Ane-i, Claveria, Misamis Oriental",
+      "civilStatus": "Single",
+      "gender": "Male",
+      "age": "21",
+      "nationality": "Filipino",
+      "religion": "Roman Chatolic",
+      "email": "199ocero@gmail.com",
+      "contactNo": "09322721987",
+      "address": "Door 4, Marielle’s Place, Apitong St, Carmen, Cagayan de Oro City"
     }
   ],
   "check_grades":[
