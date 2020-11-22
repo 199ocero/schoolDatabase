@@ -89,21 +89,5 @@
           }
         ]
       }
-      ],
-      "check_announcement":[
-        {
-          "id": "3308077482632477",
-          "studentID": "2018108693",
-          "firstName": "John",
-          "lastName": "Doe",
-          "program": "B.S. in Information Technology",
-          "yearLevel": "3rd Year",
-          "cor":[
-            {
-              "code":"IT311",
-              "name": "Information Assurance and Security",
-              "section": "IT3R4",
-              "faculty": "Harvey Acosta"
-            }
-        ]
+      ]
 }
