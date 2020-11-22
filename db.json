@@ -1,93 +1,93 @@
 {
-  "student_information": [
-    {
-      "id": "3308077482632477",
-      "studentID": "2018108693",
-      "firstName": "John",
-      "lastName": "Doe",
-      "middleName": "Hipos",
-      "dateofBirth": "22/03/1999",
-      "placeofBirth": "Carmen, Cagayan de Oro City",
-      "civilStatus": "Single",
-      "gender": "Male",
-      "age": "21",
-      "nationality": "Filipino",
-      "religion": "Roman Chatolic",
-      "email": "johndoe@gmail.com",
-      "contactNo": "09325987236",
-      "address": "Apitong Street, Carmen, Cagayan de Oro City"
-    }
-  ],
-  "check_grades":[
-    {
-      "id": "3308077482632477",
-      "studentID": "2018108693",
-      "firstName": "John",
-      "lastName": "Doe",
-      "academic_year": "2019-2020",
-      "semester": "2nd Semester",
-      "grades":[
-        {
-          "code":"SS105",
-          "name": "Life and Works of Rizal",
-          "unit": 3.00,
-          "grade_type": "Final Grade",
-          "grade_value":2.00,
-          "remarks": "Pass"
-        },
-        {
-          "code":"SS104",
-          "name": "Ethics",
-          "unit": 3.00,
-          "grade_type": "Final Grade",
-          "grade_value":1.50,
-          "remarks": "Pass"
-        },
-        {
-          "code":"IT221",
-          "name": "Information Management",
-          "unit": 3.00,
-          "grade_type": "Final Grade",
-          "grade_value":2.50,
-          "remarks": "Pass"
-        }
-      ]
-    }
-    ],
-    "check_cor":[
+   "student_information":[
       {
-        "id": "3308077482632477",
-        "studentID": "2018108693",
-        "firstName": "John",
-        "lastName": "Doe",
-        "program": "B.S. in Information Technology",
-        "yearLevel": "3rd Year",
-        "cor":[
-          {
-            "code":"IT311",
-            "name": "Information Assurance and Security",
-            "unit": 3.00,
-            "section": "IT3R4",
-            "schedule":"M 5:00 PM - 7:00 PM / W 4:30 PM - 7:30 PM",
-            "faculty": "Harvey Acosta"
-          },
-          {
-            "code":"ES211a",
-            "name": "Technopreneurship",
-            "unit": 3.00,
-            "section": "IT3R4",
-            "schedule":"F 4:30 PM - 5:30 PM / Th 4:30 PM - 7:30 PM",
-            "faculty": "Deanna Freeman"
-          },
-          {
-            "code":"IT314",
-            "name": "Software Engineering",
-            "unit": 3.00,
-            "section": "IT3R4",
-            "schedule":"M 10:00 AM - 12:00 PM / W 2:30 PM - 5:30 PM",
-            "faculty": "Walter  Hill"
-          }
-        ]
+         "id":"3308077482632477",
+         "studentID":"2018108693",
+         "firstName":"John",
+         "lastName":"Doe",
+         "middleName":"Hipos",
+         "dateofBirth":"22/03/1999",
+         "placeofBirth":"Carmen, Cagayan de Oro City",
+         "civilStatus":"Single",
+         "gender":"Male",
+         "age":"21",
+         "nationality":"Filipino",
+         "religion":"Roman Chatolic",
+         "email":"johndoe@gmail.com",
+         "contactNo":"09325987236",
+         "address":"Apitong Street, Carmen, Cagayan de Oro City"
       }
-      ]
+   ],
+   "check_grades":[
+      {
+         "id":"3308077482632477",
+         "studentID":"2018108693",
+         "firstName":"John",
+         "lastName":"Doe",
+         "academic_year":"2019-2020",
+         "semester":"2nd Semester",
+         "grades":[
+            {
+               "code":"SS105",
+               "name":"Life and Works of Rizal",
+               "unit":3.00,
+               "grade_type":"Final Grade",
+               "grade_value":2.00,
+               "remarks":"Pass"
+            },
+            {
+               "code":"SS104",
+               "name":"Ethics",
+               "unit":3.00,
+               "grade_type":"Final Grade",
+               "grade_value":1.50,
+               "remarks":"Pass"
+            },
+            {
+               "code":"IT221",
+               "name":"Information Management",
+               "unit":3.00,
+               "grade_type":"Final Grade",
+               "grade_value":2.50,
+               "remarks":"Pass"
+            }
+         ]
+      }
+   ],
+   "check_cor":[
+      {
+         "id":"3308077482632477",
+         "studentID":"2018108693",
+         "firstName":"John",
+         "lastName":"Doe",
+         "program":"B.S. in Information Technology",
+         "yearLevel":"3rd Year",
+         "cor":[
+            {
+               "code":"IT311",
+               "name":"Information Assurance and Security",
+               "unit":3.00,
+               "section":"IT3R4",
+               "schedule":"M 5:00 PM - 7:00 PM / W 4:30 PM - 7:30 PM",
+               "faculty":"Harvey Acosta"
+            },
+            {
+               "code":"ES211a",
+               "name":"Technopreneurship",
+               "unit":3.00,
+               "section":"IT3R4",
+               "schedule":"F 4:30 PM - 5:30 PM / Th 4:30 PM - 7:30 PM",
+               "faculty":"Deanna Freeman"
+            },
+            {
+               "code":"IT314",
+               "name":"Software Engineering",
+               "unit":3.00,
+               "section":"IT3R4",
+               "schedule":"M 10:00 AM - 12:00 PM / W 2:30 PM - 5:30 PM",
+               "faculty":"Walter  Hill"
+            }
+         ]
+      }
+   ]
 }
