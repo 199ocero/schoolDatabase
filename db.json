@@ -105,8 +105,10 @@
               "section": "IT3R4",
               "faculty": "Harvey Acosta",
               "announcement":[
+                {
                   "list": "No class for today Sunday, 22 Novermber 2020",
-                  "list": "We have zoom meeting today at 9:00 AM. Please go this link ('example zoom link here')",
+                  "list": "We have zoom meeting today at 9:00 AM. Please go this link ('example zoom link here')"
+                }
               ]
             }
         ]
