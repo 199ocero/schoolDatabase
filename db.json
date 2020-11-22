@@ -89,5 +89,25 @@
           }
         ]
       }
-      ]
+      ],
+      "check_announcement":[
+        {
+          "id": "3308077482632477",
+          "studentID": "2018108693",
+          "firstName": "John",
+          "lastName": "Doe",
+          "program": "B.S. in Information Technology",
+          "yearLevel": "3rd Year",
+          "cor":[
+            {
+              "code":"IT311",
+              "name": "Information Assurance and Security",
+              "section": "IT3R4",
+              "faculty": "Harvey Acosta",
+              "announcement":[
+                  "list": "No class for today Sunday, 22 Novermber 2020",
+                  "list": "We have zoom meeting today at 9:00 AM. Please go this link ('example zoom link here')",
+              ]
+            }
+        ]
 }
