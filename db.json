@@ -53,5 +53,25 @@
         }
       ]
     }
-    ]
+    ],
+    "check_cor":[
+      {
+        "id": "3308077482632477",
+        "studentID": "2018108693",
+        "firstName": "John",
+        "lastName": "Doe",
+        "program": "B.S. in Information Technology",
+        "yearLevel": "3rd Year",
+        "cor":[
+          {
+            "code":"SS104",
+            "name": "Ethics",
+            "unit": 3.00,
+            "section": "Final Grade",
+            "schedule_room":1.50,
+            "faculty": "Pass"
+          }
+        ]
+      }
+      ]
 }
