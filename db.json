@@ -104,10 +104,7 @@
                "name":"Information Assurance and Security",
                "section":"IT3R4",
                "faculty":"Harvey Acosta",
-               "announcement":[
-                  {
-                     "list":"No class for today Sunday, 22 Novermber 2020"
-                  }
+               "announcement": "list":"No class for today Sunday, 22 Novermber 2020"
                ]
             }
          ]
