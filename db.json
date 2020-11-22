@@ -64,12 +64,28 @@
         "yearLevel": "3rd Year",
         "cor":[
           {
-            "code":"SS104",
-            "name": "Ethics",
+            "code":"IT311",
+            "name": "Information Assurance and Security",
             "unit": 3.00,
-            "section": "Final Grade",
-            "schedule_room":1.50,
-            "faculty": "Pass"
+            "section": "IT3R4",
+            "schedule":"M 5:00 PM - 7:00 PM / W 4:30 PM - 7:30 PM",
+            "faculty": "Harvey Acosta"
+          },
+          {
+            "code":"ES211a",
+            "name": "Technopreneurship",
+            "unit": 3.00,
+            "section": "IT3R4",
+            "schedule":"F 4:30 PM - 5:30 PM / Th 4:30 PM - 7:30 PM",
+            "faculty": "Deanna Freeman"
+          },
+          {
+            "code":"IT314",
+            "name": "Software Engineering",
+            "unit": 3.00,
+            "section": "IT3R4",
+            "schedule":"M 10:00 AM - 12:00 PM / W 2:30 PM - 5:30 PM",
+            "faculty": "Walter  Hill"
           }
         ]
       }
