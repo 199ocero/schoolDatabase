@@ -108,5 +108,25 @@
             }
          ]
       }
+   ],
+   "check_activities":[
+      {
+         "id":"3308077482632477",
+         "studentID":"2018108693",
+         "firstName":"John",
+         "lastName":"Doe",
+         "program":"B.S. in Information Technology",
+         "yearLevel":"3rd Year",
+         "cor":[
+            {
+               "code":"IT311",
+               "name":"Information Assurance and Security",
+               "section":"IT3R4",
+               "faculty":"Harvey Acosta",
+               "activities": "Please read the attach file and send me your completed activity via this link ('example Google drive link.')",
+               "attachment": "sample pdf, docx, or video here"
+            }
+         ]
+      }
    ]
 }
